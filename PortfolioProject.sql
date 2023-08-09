@@ -188,12 +188,13 @@ join PortfolioProject..CovidVaccinations vac
 on dea.location=vac.location
 and dea.date=vac.date
 where dea.continent is not null
-
+  
+)
 ---All The Above Above Codes And Queries Contain The Major Queries From Beginner To advanced Level--
 
 
 -----------------------------------------------------------THE END ----------------------------------------------------------------------------------
-)
+
 
 
 
